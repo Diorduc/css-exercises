@@ -7,12 +7,12 @@ font-family: Verdana, "DejaVu Sans", sans-serif;
 font-size: 24px;
 }
 
-.second {
+#second {
 color: blue;
 font-size:36px;
 }
 
-.fourth {
+#fourth {
 background-color: #66FF99;
 font-size: 24px;
 font-weight: bold;

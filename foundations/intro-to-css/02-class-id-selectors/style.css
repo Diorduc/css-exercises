@@ -1,3 +1,19 @@
-.classical{
-    background-color: aquamarine;
-};
+.odd{
+background-color: #FA2A55;
+font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.extra {
+font-size: 24px;
+}
+
+.second {
+color: blue;
+font-size:36px;
+}
+
+.fourth {
+background-color: #66FF99;
+font-size: 24px;
+font-weight: bold;
+}
